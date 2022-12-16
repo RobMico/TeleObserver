@@ -1,13 +1,32 @@
 {
     "API_ID":0,
     "API_HASH":"",
-    "ADMIN_ID":0,
+    "sessionStringFile":"",
+
     "dbUser":"",
     "dbPass":"",
     "dbName":"",
     "dbHost":"",
     "dbPort":0,
-    "sessionStringFile":"",
-    "linksBin":"",
-    "mediaBin":""
+
+    "ADMIN_ID":0,
+    
+    
+    "mode":"",
+
+    "controller":{
+        "timeout":1800000,
+        "botsChat":"",
+        "admins":[
+            0
+        ]
+    },
+    "scrapper":{
+        "ADMIN_ID":0,
+        "mediaBin":0,
+        "checkForward":true,
+        "checkReplies":true,
+        "checkMedia":false,
+        "JoinChannelCooldown":1800000
+    }
 }
