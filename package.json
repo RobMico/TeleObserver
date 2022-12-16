@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "dotenv": "^16.0.3",
     "pg": "^8.8.0",
-    "telegram": "^2.14.7"
+    "pg-cursor": "^2.7.4",
+    "telegram": "^2.14.7",
+    "winston": "^3.8.2"
   }
 }

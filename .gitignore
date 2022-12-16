@@ -2,3 +2,8 @@ temp
 anon.session
 config.json
 node_modules
+session.dat
+configs/*
+logs/*
+temp
+sessions/*

@@ -4,5 +4,10 @@
     "ADMIN_ID":0,
     "dbUser":"",
     "dbPass":"",
-    "dbName":""
+    "dbName":"",
+    "dbHost":"",
+    "dbPort":0,
+    "sessionStringFile":"",
+    "linksBin":"",
+    "mediaBin":""
 }
